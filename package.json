@@ -1,0 +1,26 @@
+{
+  "name": "walletv2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.5.0",
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "next": "12.1.4",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.12.0",
+    "eslint-config-next": "12.1.4"
+  }
+}
