@@ -12,7 +12,7 @@ const BlockSDK = () => {
 
       <p>
         Built for developers, the WalletConnect web, android, and iOS SDK’s
-        power billions of web3 connections every day.
+        power millions of web3 connections every day.
       </p>
       <br />
       <div className="Simage">
